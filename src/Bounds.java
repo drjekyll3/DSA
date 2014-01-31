@@ -61,33 +61,32 @@ public class Bounds {
 		bounds.findBounds(numbers, 98);
 		bounds.findBounds(numbers, 8);
 		
-		
-		/**		
- 		[40, 14, 25, 25, 29, 17, 13, 44, 36, 5, 21, 41, 6, 19, 2, 16, 19, 19, 40, 42, 47, 32, 30, 4, 10, 27, 41, 7, 38, 13, 3, 43, 8, 9, 37, 19, 18, 6, 13, 11, 20, 1, 10, 33, 47, 20, 37, 31, 6, 18, 6, 36, 14, 20, 3, 2, 30, 12, 15, 28, 3, 28, 47, 4, 18, 11, 43, 25, 8, 32, 21, 31, 30, 2, 25, 27, 24, 5, 46, 5, 31, 35, 3, 32, 46, 19, 3, 2, 1, 44, 24, 12, 15, 7, 28, 27, 16, 31, 41, 12]
-		The lower bound of 11 is 39.
-		The upper bound of 11 is 65.
+		/**
+		[47, 33, 14, 14, 35, 26, 13, 10, 39, 49, 20, 20, 40, 48, 10, 8, 41, 3, 50, 47, 50, 42, 47, 50, 29, 5, 5, 26, 25, 6, 19, 43, 32, 24, 13, 42, 26, 6, 42, 29, 19, 23, 24, 38, 16, 21, 6, 34, 23, 1, 1, 16, 11, 15, 37, 40, 41, 22, 42, 25, 39, 41, 24, 50, 9, 15, 10, 32, 5, 2, 22, 22, 9, 44, 37, 3, 40, 41, 26, 42, 41, 25, 5, 17, 50, 16, 8, 15, 37, 48, 38, 10, 24, 8, 28, 30, 27, 48, 47, 40]
+		The lower bound of 11 is 52.
+		The upper bound of 11 is 52.
 
-		The lower bound of 4 is 23.
-		The upper bound of 4 is 63.
+		The lower bound of 4 is -1.
+		The upper bound of 4 is -1.
 
-		The lower bound of 9 is 33.
-		The upper bound of 9 is 33.
+		The lower bound of 9 is 64.
+		The upper bound of 9 is 72.
 
-		The lower bound of 50 is -1.
-		The upper bound of 50 is -1.
+		The lower bound of 50 is 18.
+		The upper bound of 50 is 84.
 
-		The lower bound of 34 is -1.
-		The upper bound of 34 is -1.
+		The lower bound of 34 is 47.
+		The upper bound of 34 is 47.
 
-		The lower bound of 23 is -1.
-		The upper bound of 23 is -1.
+		The lower bound of 23 is 41.
+		The upper bound of 23 is 48.
 
 		The lower bound of 98 is -1.
 		The upper bound of 98 is -1.
 
-		The lower bound of 8 is 32.
-		The upper bound of 8 is 68.
-		**/	
+		The lower bound of 8 is 15.
+		The upper bound of 8 is 93.
+		**/
 	}
 
 }
